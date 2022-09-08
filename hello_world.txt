@@ -1,1 +1,1 @@
-"Hola me llamo Guido y estor probando GIT"
+"Hola me llamo Guido y estoy probando GIT"
